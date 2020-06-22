@@ -3,7 +3,7 @@
 const rippleSettings = {
   maxSize: 100,
   animationSpeed: 2,
-  strokeColor: [45, 45, 45],
+  strokeColor: [453, 876, 22],
 };
 
 const canvasSettings = {
